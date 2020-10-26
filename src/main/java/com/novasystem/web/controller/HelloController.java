@@ -11,7 +11,6 @@ public class HelloController {
     public String index(Model model) {
         model.addAttribute("name", "SpringBlog from Millky");
         System.out.println("a");
-        System.out.println("b");
         System.out.println("c");
         System.out.println("d");
         System.out.println("o");
