@@ -15,6 +15,7 @@ public class HelloController {
         System.out.println("d");
         System.out.println("o");
         System.out.println("e");
+        System.out.println("x");
         return "hello";
     }
 }
