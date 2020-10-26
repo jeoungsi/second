@@ -10,7 +10,7 @@ public class HelloController {
     @RequestMapping("/hello")
     public String index(Model model) {
         model.addAttribute("name", "SpringBlog from Millky");
-        System.out.println("a");
+        System.out.println("aaaaa");
         return "hello";
     }
 }
